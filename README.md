@@ -48,32 +48,6 @@
 | **Provider** | State management |
 | **Material Design 3** | UI/UX components |
 
-## 📸 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/onboarding.jpg" width="200" alt="Onboarding"/></td>
-      <td><img src="screenshots/home.jpg" width="200" alt="Home Screen"/></td>
-      <td><img src="screenshots/events.jpg" width="200" alt="Events Screen"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Onboarding</b></td>
-      <td align="center"><b>Home Dashboard</b></td>
-      <td align="center"><b>Events by Category</b></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/notifications.jpg" width="200" alt="Notifications"/></td>
-      <td><img src="screenshots/event_detail.jpg" width="200" alt="Event Detail"/></td>
-      <td><img src="screenshots/profile.jpg" width="200" alt="Profile"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Notifications</b></td>
-      <td align="center"><b>Event Details</b></td>
-      <td align="center"><b>User Profile</b></td>
-    </tr>
-  </table>
-</div>
 
 ## 🏗️ Architecture
 
@@ -217,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <sub>Built with ❤️ for students, by students</sub>
   <br/>
-  <sub>© 2024 Campus Pulse. All rights reserved.</sub>
+  <sub>© 2026 Campus Pulse. All rights reserved.</sub>
 </div>
 ```
 
